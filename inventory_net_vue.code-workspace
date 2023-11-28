@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"path": "frontend_vue"
+	},
+	{
+		"path": "inventory"
+	}
+],
+  "settings": {}
+}
